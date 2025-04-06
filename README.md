@@ -10,11 +10,11 @@
 </p>
 
 ## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shfro&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shfro&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shfro&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shfro&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shfro&theme=gruvbox&utcOffset=9)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shfro&theme=vision_friendly_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shfro&theme=vision_friendly_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shfro&theme=vision_friendly_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shfro&theme=vision_friendly_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shfro&theme=vision_friendly_dark&utcOffset=9)
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=gruvbox)
