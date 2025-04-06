@@ -1,4 +1,26 @@
-## Hi there 👋
+## My Profile
+
+<p align="left">
+  <a href="https://github.com/shfro">
+    <img height="20" src="https://komarev.com/ghpvc/?username=shfro" />
+  </a>
+  <a href="https://github.com/shfro">
+    <img height="20" src="https://img.shields.io/github/followers/shfro?label=follow&logo=github&style=flat" />
+  </a>
+</p>
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shfro&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shfro&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shfro&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shfro&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shfro&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=gruvbox)
+
+## My experienced languages and tools
+[![My Skills](https://skillicons.dev/icons?i=apple,aws,azure,bash,c,cs,css,docker,dotnet,eclipse,elasticsearch,emacs,fastapi,git,github,githubactions,gmail,go,heroku,html,java,js,jquery,kotlin,kubernetes,latex,linkedin,linux,md,mysql,nginx,nodejs,notion,npm,php,postgres,postman,powershell,pycharm,py,react,ruby,sqlite,stackoverflow,selenium,swift,ts,ubuntu,unity,unreal,vim,visualstudio,vscode,windows&theme=light)](https://skillicons.dev)
 
 <!--
 **shfro/shfro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
